@@ -53,6 +53,7 @@ Ces précisions décrivent le code existant. Elles n’introduisent pas de corre
 
 ## Mise à jour documentaire
 
-Des titres et des cellules Markdown ont été ajoutés pour expliquer les données, les étapes, les modèles et les limites d’interprétation. **Toutes les cellules de code, leurs métadonnées, leurs sorties et leurs compteurs d’exécution sont conservés à l’identique.** Aucun notebook n’a été réexécuté pour cette mise à jour.
+Des titres et des cellules Markdown ont été ajoutés pour expliquer les données, les étapes, les modèles et les limites d’interprétation. **Toutes les cellules de code, leurs métadonnées, leurs sorties et leurs compteurs d’exécution sont conservés à l’identique.**
+
 
 [Retour au dépôt](../README.md) · [Portfolio](https://alaberrahal.github.io/fr/) · [LinkedIn](https://www.linkedin.com/in/ala-berrahal-726a81327/) · [E-mail](mailto:alaberrahal1999@gmail.com)
